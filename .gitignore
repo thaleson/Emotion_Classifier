@@ -50,7 +50,7 @@ output/
 results/
 
 # Arquivos de treinamento e modelos
-models/
+
 *.h5
 
 # Arquivos de animação Lottie
