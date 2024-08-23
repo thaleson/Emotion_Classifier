@@ -52,7 +52,6 @@ preshed==3.0.9
 prompt_toolkit==3.0.47
 protobuf==5.27.3
 psutil==6.0.0
-pt-core-news-sm 
 pure_eval==0.2.3
 pyarrow==17.0.0
 pydantic==2.8.2
