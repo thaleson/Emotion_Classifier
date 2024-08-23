@@ -105,5 +105,5 @@ Contribuições são bem-vindas! Se você deseja contribuir com o projeto, por f
 ## Licença 📜
 
 Este projeto é licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
+
 
